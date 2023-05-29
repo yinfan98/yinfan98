@@ -1,7 +1,7 @@
 # Welcome to my Deep Learning repository!
 This is my personal repository for Deep Learning projects and experiments. I'm passionate about this field and I love to explore new ideas and techniques that can improve the performance of machine learning models.
 ## About me
-My name is [Your name], and I'm a [Your current occupation or interests]. I'm also a self-taught Deep Learning enthusiast, and I have been studying this field for [Years of experience or other relevant information].
+My name is [Yin Fan], and I'm a [Your current occupation or interests]. I'm also a self-taught Deep Learning enthusiast, and I have been studying this field for [Years of experience or other relevant information].
 ## What you can find in this repository
 In this repository, you will find a collection of my Deep Learning projects and experiments, including:
 [Project 1](Link to the project): A [Brief description of the project].
