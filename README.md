@@ -7,6 +7,8 @@ In this repository, you will find a collection of my Deep Learning projects and 
 
 * [ECACA_TDNN_change](https://github.com/yinfan98/ECAPA-TDNN-Change): this is about my ECAPA-TDNN, the basic code is forked from @TaoRuijie .And i add some engineering work in here.
 
+* [OpenmmLabCamp](https://github.com/yinfan98/OpenMMLabCamp): this is the learning process about using OpenMMLab framework, and some lab
+
 I'm constantly updating this repository with new projects and experiments, so be sure to check back often!
 ## Contact me
 If you have any questions, suggestions, or just want to say hello, feel free to contact me at 1106310035@qq.com.
