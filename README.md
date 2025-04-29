@@ -2,7 +2,7 @@
 ## 🙋‍♂️ About Me
 - 🌱 I’m currently learning **CUDA && LLM Inference && CG**
 - 📫 How to reach me: **[1106310035@qq.com](1106310035@qq.com)**
-- All in SGLang
+- Part time in SGLang/PaddleSpeech
 
 ## 📊 My GitHub Stats
 
